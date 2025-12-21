@@ -84,7 +84,6 @@ terraform apply
 After successful execution, all resources are visible in the Azure Portal and Resource Visualizer.
 
 
-<img width="1918" height="1031" alt="5" src="https://github.com/user-attachments/assets/c920e6af-6181-4619-a06a-2270a082c430" />
 
 
 🎯 Learning Outcome
